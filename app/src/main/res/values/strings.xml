@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quran Academy</string>
+    <string name="academy_full_title">Quran Learning Academy</string>
+    <string name="academy_subtitle">Learn Quran • Hadith • Dua</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_quran">Quran</string>
+    <string name="nav_hadith">Hadith</string>
+    <string name="nav_dua">Dua</string>
+    <string name="nav_academy">Academy</string>
+    <string name="bismillah_arabic">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</string>
+    <string name="bismillah_translation">In the Name of Allah, the Most Gracious, the Most Merciful</string>
+    <string name="continue_reading">Continue Reading</string>
+    <string name="daily_ayah">Ayah of the Day</string>
+    <string name="daily_hadith">Prophetic Wisdom</string>
+    <string name="remembrance_title">Digital Tasbih</string>
+    <string name="search_surahs">Search surahs by name or meaning…</string>
+    <string name="search_hadith">Search hadith or narrator…</string>
+    <string name="search_dua">Search duas by occasion…</string>
+    <string name="cd_hero_banner">Sunlit Islamic courtyard archway illustration</string>
+    <string name="cd_academy_banner">Illuminated Quran manuscript with reed pen</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_bookmark">Toggle bookmark</string>
+    <string name="cd_share">Share</string>
+    <string name="cd_listen">Listen aloud</string>
+    <string name="cd_stop_audio">Stop reading aloud</string>
+    <string name="cd_decrease_font">Decrease Arabic font size</string>
+    <string name="cd_increase_font">Increase Arabic font size</string>
+    <string name="cd_reset_counter">Reset tasbih counter</string>
+    <string name="cd_dark_mode">Toggle dark mode</string>
+    <string name="cd_open_drawer">Open navigation menu</string>
+</resources>

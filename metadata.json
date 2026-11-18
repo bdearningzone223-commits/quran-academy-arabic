@@ -1,0 +1,6 @@
+{
+  "name": "Quran Academy",
+  "description": "Quran Learning Academy — Learn Quran, authentic Hadith, Daily Duas, Arabic letters, and Tajweed foundations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
